@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[D'Oger]]></title>
+        <description><![CDATA[D'Oger]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Aug 2016 20:05:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Castlnau]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4a58458-a0d6-49b6-a7c9-9f10d12eb04b.jpg">]]></description>
+            <link>undefinedcastlnau/index.html</link>
+            <guid isPermaLink="false">7ece66c3-feae-44f2-8041-4b03905c4ebb</guid>
+            <pubDate>Tue, 09 Aug 2016 20:05:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
