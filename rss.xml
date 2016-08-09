@@ -4,14 +4,21 @@
         <description><![CDATA[D'Arcy < D'Oger > Roger]]></description>
         <link>https://thegrid.ai/d-oger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 20:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 20:31:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/d-oger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Castlnau]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4a58458-a0d6-49b6-a7c9-9f10d12eb04b.jpg">]]></description>
+            <link>https://thegrid.ai/d-oger/castlnau/index.html</link>
+            <guid isPermaLink="false">7ece66c3-feae-44f2-8041-4b03905c4ebb</guid>
+            <pubDate>Tue, 09 Aug 2016 20:31:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a8ee9b9-805a-4bef-bf76-289f9919fd8f.jpg">]]></description>
             <link>https://thegrid.ai/d-oger/6c837f1b-884e-4a54-a673-937e14a11182/index.html</link>
             <guid isPermaLink="false">6c837f1b-884e-4a54-a673-937e14a11182</guid>
-            <pubDate>Tue, 09 Aug 2016 20:31:00 GMT</pubDate>
+            <pubDate>Tue, 09 Aug 2016 20:31:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/d-oger/castle-chambord-began-construction-by-king-francios-i-of-fra/index.html</link>
             <guid isPermaLink="false">5f0412aa-38d0-4fdf-8213-eb0b2259eeaa</guid>
             <pubDate>Tue, 09 Aug 2016 20:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Castlnau]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4a58458-a0d6-49b6-a7c9-9f10d12eb04b.jpg">]]></description>
-            <link>https://thegrid.ai/d-oger/castlnau/index.html</link>
-            <guid isPermaLink="false">7ece66c3-feae-44f2-8041-4b03905c4ebb</guid>
-            <pubDate>Tue, 09 Aug 2016 20:05:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
